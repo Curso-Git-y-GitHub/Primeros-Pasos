@@ -1,0 +1,25 @@
+body
+{
+  background-color: black;
+  font-family: monospace;
+  text-align: center;
+  font-size: 20px;
+}
+header
+{
+  color: white;
+}
+section
+{
+  color: grey;
+}
+article
+{
+  width: 960px;
+  background-color: white;
+  margin: 0 auto;
+  color: black;
+  border-radius: 5px;
+  text-align: left;
+  padding: 5px;
+}
