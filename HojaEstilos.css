@@ -1,31 +1,32 @@
 body
 {
   background-color: black;
-  font-family: monospace;
+  font-family: Arial;
   text-align: center;
   font-size: 20px;
 }
 header
 {
-  color: white;
+  color: #edde0e;
 }
 section
 {
-  color: grey;
+  color: #fcfbed;
 }
 article
 {
   width: 960px;
-  background-color: white;
+  background-color: #fcfcd1;
   margin: 0 auto;
   color: black;
   border-radius: 5px;
   text-align: left;
   padding: 5px;
+  font-style: italic;
 }
 #p3, #p4
 {
-  color: orange;
+  color: #ffa900;
 }
 #gitLogo
 {
